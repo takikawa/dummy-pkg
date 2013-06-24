@@ -1,4 +1,4 @@
 #lang setup/infotab
 
-(define single-collection "LAMBDALAMBDALAMBDA")
+(define single-collection "λλλλλλλλλλλλλλλλλ")
 
