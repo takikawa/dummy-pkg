@@ -1,4 +1,4 @@
 #lang setup/infotab
 
-(define collection "λλλλλλλλλλλλλλλλλ")
+;(define collection "λλλλλλλλλλλλλλλλλ")
 
